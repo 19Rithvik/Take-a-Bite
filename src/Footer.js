@@ -9,7 +9,7 @@ function Footer (){
   return (
     <div className='footer'>
         <div className='socialMedia'>
-            <InstagramIcon/>
+            <InstagramIcon />
             <FacebookIcon/>
             <TwitterIcon/>
             <LinkedInIcon/>

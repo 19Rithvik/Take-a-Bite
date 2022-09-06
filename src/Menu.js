@@ -1,13 +1,12 @@
 import React from "react";
 import { MenuList } from "./MenuList";
-//import MenuContents from "./MenuContents";
 import MenuContents from "./MenuContents";
 import "./Menu.css"
 
 function Menu() {
   return (
     <div className="menu">
-      <h1 className="menuTitle">Our Menu</h1>
+      <h1 className="menuTitle">Ours Menu</h1>
       <div className="menuList">
         {MenuList.map((menuItem, key) => {
           return (
