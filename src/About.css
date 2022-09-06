@@ -24,8 +24,12 @@
   
   .aboutBottom p {
     width: 90%;
+    overflow:auto;
   }
   
+  .aboutBottom P::-webkit-scrollbar {
+    display: none; 
+  }
   .about .aboutBottom h1 {
     font-weight: 400;
     font-size: 70px;
