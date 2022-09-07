@@ -25,6 +25,7 @@
   .aboutBottom p {
     width: 90%;
     overflow:auto;
+    font-style: italic;
   }
   
   .aboutBottom P::-webkit-scrollbar {
