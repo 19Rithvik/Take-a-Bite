@@ -9,22 +9,22 @@ export const MenuList = [
   {
     name: "Pepperoni Pizza",
     image: Pepperoni,
-    price: 15.99,
+    price: 7.99,
   },
   {
     name: "Margherita Pizza",
     image: Margherita,
-    price: 11.99,
+    price: 6.99,
   },
   {
     name: "Take a Bite Special",
     image: Takeabitespecial,
-    price: 256.53,
+    price: 11.53,
   },
   {
     name: "Vegan Pizza",
     image: Vegan,
-    price: 17.99,
+    price: 8.99,
   },
   {
     name: "Pineapple Pizza",
@@ -34,6 +34,6 @@ export const MenuList = [
   {
     name: "Very Expensive Pizza",
     image: Expensive,
-    price: 300.5,
+    price: 10.5,
   },
 ];  

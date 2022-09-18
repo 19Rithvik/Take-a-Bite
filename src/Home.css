@@ -67,7 +67,7 @@
       justify-content: center;
       align-items: center;
       flex-direction: column;
-      background-color: #121619;
+      /*  background-color: #121619; */
       color: white;
     }
   
@@ -83,8 +83,8 @@
     }
   
     .headerContainer button {
-      background-color: white;
-      color: #121619;
+      background-color: black;
+      color: white;
       margin-bottom: 30px;
     }
   
