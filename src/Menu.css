@@ -46,6 +46,7 @@
   .menuItem h1,
   .menuItem p {
     margin-left: 20px;
+    font-weight: 600;
   }
   .flex-change{
     width: 300px;
